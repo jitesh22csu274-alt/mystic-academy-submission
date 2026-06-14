@@ -1,0 +1,73 @@
+1. Does the landing page display the game title and a clearly visible Start Game button?
+
+2. Does clicking the Start Game button successfully begin the game experience?
+
+3. Does the character creation screen allow the player to enter a custom name?
+
+4. Does the character creation screen provide at least three avatar options?
+
+5. Is the selected avatar correctly saved and displayed during gameplay?
+
+6. Are at least three academy locations implemented and accessible?
+
+7. Does every location have a unique visual appearance?
+
+8. Does every location contain at least one interactive object?
+
+9. Does every location contain at least one story-related detail?
+
+10. Does every location contain at least one clue connected to the mystery?
+
+11. Can players move between connected locations without errors?
+
+12. Is the current location clearly labeled on screen?
+
+13. Are previously visited locations accessible after discovery?
+
+14. Does location navigation include a smooth visual transition effect?
+
+15. Does the dialogue system display the speaker's name?
+
+16. Does the dialogue system display a character portrait or avatar?
+
+17. Can players manually advance dialogue text?
+
+18. Is all dialogue free from placeholder text and lorem ipsum?
+
+19. Does the game include at least one main quest?
+
+20. Is the quest tracker visible during gameplay?
+
+21. Does the quest tracker update correctly when objectives are completed?
+
+22. Does quest completion trigger a visible notification?
+
+23. Does the game include at least two functional puzzles?
+
+24. Are puzzle clues available within the game world?
+
+25. Does the game provide feedback for incorrect puzzle attempts?
+
+26. Can players continue progressing after failed puzzle attempts?
+
+27. Is exactly one spell mechanic implemented?
+
+28. Is the spell introduced through a story event?
+
+29. Does casting the spell trigger a visual effect?
+
+30. Does casting the spell trigger an audio effect?
+
+31. Is the spell required to progress the story?
+
+32. Does the story contain a clear beginning, middle, and ending?
+
+33. Does the ending provide a resolution to the Celestial Relic mystery?
+
+34. Is player progress automatically saved using local storage?
+
+35. Does the game provide a Continue option after progress has been saved?
+
+36. Is the user interface responsive on both desktop and mobile devices?
+
+37. Can a new player complete the full game experience without external guidance?

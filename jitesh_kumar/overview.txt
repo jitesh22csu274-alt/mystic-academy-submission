@@ -1,0 +1,5 @@
+I'm working on a fantasy wizard-themed web game called Mystic Academy: The Lost Relic, and I need a developer to build a simple playable prototype. I already have the overall concept and story direction, but I need a basic version that can be used to demonstrate the idea and gather feedback.
+
+The game places players in the role of a new student arriving at a magical academy after an ancient artifact known as the Celestial Relic mysteriously disappears. Players will explore a small portion of the academy, interact with characters, discover clues, solve simple magical puzzles, and progress through a short story-driven experience.
+
+The goal is not to build a full RPG but rather a polished proof-of-concept that showcases the atmosphere, exploration, storytelling, and magical theme of the project. The prototype should focus on user experience, visual presentation, and basic gameplay mechanics while keeping the scope manageable for future expansion.
